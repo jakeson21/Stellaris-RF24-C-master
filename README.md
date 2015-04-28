@@ -1,2 +1,2 @@
-# Stellaris-RF24-C-master
-NRF24L01+ library for TI Stellaris
+
+**See http://tmrh20.github.io/RF24 for all documentation**
